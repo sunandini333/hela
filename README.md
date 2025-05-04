@@ -1,1 +1,1 @@
-# hela
+# lncRNA prediction model
